@@ -34,3 +34,10 @@ h2 {
     padding-right: 0px;
     color: #007bff;
 }
+.foodtype{
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+  color: #130202;
+  list-style-type: none;
+}
