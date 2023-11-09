@@ -51,6 +51,14 @@ h1 {
 
 
 }
+.Beverages{
+    background-color: #dac6c6;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 100px;
+    box-shadow: 0px 0px 10px rgba(16, 16, 16, 0.2);
+
+}
 .home{
     font-family: cursive;
 }
