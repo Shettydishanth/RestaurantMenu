@@ -100,10 +100,7 @@ h2 {
     font-weight: bold;
 }
 
-.item-price {
-    padding-right: 0px;
-    color: #007bff;
-}
+
 .foodtype{
   display: flex;
   gap: 80px;
