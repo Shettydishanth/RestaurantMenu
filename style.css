@@ -3,6 +3,18 @@ body {
     background-color:#F1EAFF;
     
 }
+button{
+    border: none;
+    color: rgb(100, 32, 32);
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
 
 h1 {
     color: #333;
