@@ -25,35 +25,44 @@ h1 {
 .veg{
     text-align: center;
 }
+.firstcol{
+    display: flex;
+}
+.seccol{
+    display: flex;
+}
 .SOUP {
-    background-color: #dac6c6;
-    border-radius: 10px;
-    padding: 50px;
-    margin: 500px;
-    box-shadow: 0px 0px 10px rgba(245, 2, 2, 0.2);
+    font-family: Cursive;
+  background-color:  #d4bebe;
+  border-radius: 20px;
+  padding: 50px 150px 5px 150px;
+  box-shadow: 0px 0px 10px rgb(239, 238, 244);
+  text-align: center;
 }
 
 .main{
-    background-color:  #dac6c6;
-    border-radius: 10px;
-    padding: 50px;
-    margin: 500px;
-    box-shadow: 0px 0px 10px rgba(226, 6, 6, 0.2);
+    font-family: Cursive;
+  background-color:  #d4bebe;
+  border-radius: 20px;
+  padding: 50px 150px 5px 150px;
+  box-shadow: 0px 0px 10px rgb(239, 238, 244);
+  text-align: center;
 }
 .burgir{
-    background-color:  #dac6c6;
-    border-radius: 10px;
-    padding: 50px;
-    margin: 500px;
-    box-shadow: 0px 0px 10px rgba(16, 16, 16, 0.2);
-
+    font-family: Cursive;
+    background-color:  #d4bebe;
+    border-radius: 20px;
+    padding: 50px 150px 5px 150px;
+    box-shadow: 0px 0px 10px rgb(239, 238, 244);
+    text-align: center;
 }
 .deserts{
-    background-color: #dac6c6;
-    border-radius: 10px;
-    padding: 50px;
-    margin: 500px;
-    box-shadow: 0px 0px 10px rgba(16, 16, 16, 0.2);
+    font-family: Cursive;
+    background-color:  #d4bebe;
+    border-radius: 20px;
+    padding: 50px 150px 5px 150px;
+    box-shadow: 0px 0px 10px rgb(239, 238, 244);
+    text-align: center;
 
 }
 .Sides{
